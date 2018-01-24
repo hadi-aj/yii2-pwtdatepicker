@@ -1,0 +1,22 @@
+{
+    "name": "hadi-aj/yii2-pwt-datepicker",
+    "description": "Jalali datepicker",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","widget" , "datepicker", "jquery", "plugin"],
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Hadi Alizadeh Jalali ",
+            "email": "hadi.alizadeh.jalali@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "bower-asset/persian-datepicker": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hadiaj\\pwtdatepicker\\": ""
+        }
+    }
+}
