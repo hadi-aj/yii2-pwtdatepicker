@@ -3,6 +3,7 @@
     "description": "Jalali datepicker",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","widget" , "datepicker", "jquery", "plugin"],
+    "homepage": "https://github.com/hadi-aj/yii2-pwtdatepicker",
     "license": "WTFPL",
     "authors": [
         {
